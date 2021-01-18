@@ -13,6 +13,9 @@ Changed
 Fixed
 ~~~~~
 
+- `encode()`, `decode()`, and `decode_complete()`'s parameter key now
+  accepts and defaults to `bytes` `#605 <https://github.com/jpadilla/pyjwt/pull/605>`__
+
 Added
 ~~~~~
 
